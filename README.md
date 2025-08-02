@@ -65,7 +65,7 @@ I'm a highly driven developer with hands-on experience building scalable full st
     </td>
     <td>
       <a href="mailto:justforcoding13@gmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="40" />
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40"/>
       </a>
     </td>
   </tr>
