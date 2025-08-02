@@ -2,7 +2,7 @@
 <h3 align="center">🚀 An enthusiastic Full Stack Developer, AI Engineer & Data Analyst from Pune, India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/26xBsW7sxMX1bXHyE/giphy.gif" width="600" />
 </p>
 
 ---
