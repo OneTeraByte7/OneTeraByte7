@@ -64,16 +64,11 @@ I'm a highly driven developer with hands-on experience building scalable full st
 ---
 
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en&theme=onedark" alt="Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en&theme=onedark" alt="Stats" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark" alt="Languages" width="30%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oneterabyte7&theme=onedark" alt="Streaks" width="33%"/>
+</div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark" alt="Languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oneterabyte7&theme=onedark" alt="Streaks" />
-</p>
