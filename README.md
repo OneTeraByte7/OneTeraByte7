@@ -54,7 +54,6 @@ I'm a highly driven developer with hands-on experience building scalable full st
 
 ---
 
-
 ### 🔗 Connect with Me
 
 <a href="https://linkedin.com/in/sohamjs1313" target="blank">
@@ -63,6 +62,7 @@ I'm a highly driven developer with hands-on experience building scalable full st
 
 
 ---
+
 
 ### 📊 GitHub Stats
 
