@@ -25,9 +25,9 @@ I'm a highly driven developer with hands-on experience building scalable full st
 ---
 
 <p>
-  <img src="https://github.com/user-attachments/assets/aabc470a-858e-462d-9422-0a9e2f760249" swidth="500" />
-
+  <img src="![12934305_1920_1080_30fps gih-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/35641905-c0ec-4e06-bfa5-9e4d02be80b6)" width="500" />
 </p>
+
 
 ---
 
