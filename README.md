@@ -24,13 +24,6 @@ I'm a highly driven developer with hands-on experience building scalable full st
 
 ---
 
-<p>
-  <img src="![12934305_1920_1080_30fps gih-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/35641905-c0ec-4e06-bfa5-9e4d02be80b6)" width="500" />
-</p>
-
-
----
-
 ### 🧠 Languages, Frameworks, Tools & DevOps
 
 #### 👨‍💻 Programming Languages
