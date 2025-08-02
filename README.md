@@ -2,22 +2,6 @@
 
 <h3>🚀 An enthusiastic and ambitious Full Stack Developer, AI Engineer, and Data Analyst from Pune, India</h3>
 
-I'm a highly driven developer with hands-on experience building scalable full stack applications using the **MERN stack**, and crafting intelligent systems using **machine learning, computer vision**, and **LLMs**. I enjoy solving real-world problems through code and have contributed to several impactful projects and hackathons.
-
-- 🎯 Passionate about building end-to-end products that combine UI/UX with AI
-- 💼 Ex-Full Stack Developer @ HackNcrafts  
-- 🧠 Former AI Engineer Intern @ DLTitans  
-- 🏆 3rd Place - **IEEE CodeClash International Hackathon 2025**  
-- 📫 Reach me at: **justforcoding13@gmail.com**  
-- 💬 Ask me about: **MERN Stack, Machine Learning, LLMs, MLOps, DevOps**
-- ⚡ Fun fact: I write cleaner code than my room 🧹
-
----
-
-<p>
-  <img src="https://i.gifer.com/7efs.gif" width="600" alt="hacker-animation"/>
-</p>
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -25,6 +9,25 @@ I'm a highly driven developer with hands-on experience building scalable full st
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=oneterabyte7&theme=onedark" alt="oneterabyte7 trophies" />
 </a>
+
+---
+
+I'm a highly driven developer with hands-on experience building scalable full stack applications using the **Full Stack**, and crafting intelligent systems using **Machine learning, Computer vision**, and **LLMs**. I enjoy solving real-world problems through code and have contributed to several impactful projects and hackathons.
+
+- 🎯 Passionate about building end-to-end products that combine UI/UX with AI
+- 💼 Ex-Full Stack Developer @ HackNcrafts  
+- 🧠 Former AI Engineer Intern @ DLTitans  
+- 🏆 3rd Place - **IEEE CodeClash International Hackathon 2025**  
+- 📫 Reach me at: **justforcoding13@gmail.com**  
+- 💬 Ask me about: **Full Stack, Machine Learning, LLMs, MLOps, DevOps**
+- ⚡ Fun fact: I write cleaner code than my room 🧹
+
+---
+
+<p>
+  <img src="https://github.com/user-attachments/assets/aabc470a-858e-462d-9422-0a9e2f760249" swidth="500" />
+
+</p>
 
 ---
 
