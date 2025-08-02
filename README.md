@@ -54,11 +54,13 @@ I'm a highly driven developer with hands-on experience building scalable full st
 
 ---
 
+
 ### 🔗 Connect with Me
 
 <a href="https://linkedin.com/in/sohamjs1313" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
+
 
 ---
 
