@@ -56,14 +56,20 @@ I'm a highly driven developer with hands-on experience building scalable full st
 
 ### 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/sohamjs1313" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="mailto:justforcoding13@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40"/>
-  </a>
-</p>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/sohamjs1313" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:justforcoding13@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
