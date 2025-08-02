@@ -1,88 +1,93 @@
-<h1 align="center">Hi 👋, I'm Soham J Suryawanshi</h1>
-<h2 align="center">🚀 Full Stack Developer | 🤖 AI Engineer | 📊 Data Analyst</h2>
+<h1>Hi 👋, I'm Soham J Suryawanshi</h1>
 
-<p align="center">
+<h3>🚀 An enthusiastic and ambitious Full Stack Developer, AI Engineer, and Data Analyst from Pune, India</h3>
+
+I'm a highly driven developer with hands-on experience building scalable full stack applications using the **MERN stack**, and crafting intelligent systems using **machine learning, computer vision**, and **LLMs**. I enjoy solving real-world problems through code and have contributed to several impactful projects and hackathons.
+
+- 🎯 Passionate about building end-to-end products that combine UI/UX with AI
+- 💼 Ex-Full Stack Developer @ HackNcrafts  
+- 🧠 Former AI Engineer Intern @ DLTitans  
+- 🏆 3rd Place - **IEEE CodeClash International Hackathon 2025**  
+- 📫 Reach me at: **justforcoding13@gmail.com**  
+- 💬 Ask me about: **MERN Stack, Machine Learning, LLMs, MLOps, DevOps**
+- ⚡ Fun fact: I write cleaner code than my room 🧹
+
+---
+
+<p>
   <img src="https://i.gifer.com/7efs.gif" width="600" alt="hacker-animation"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oneterabyte7&label=Profile%20views&color=0e75b6&style=flat" alt="oneterabyte7" />
+---
+
+### 🏆 GitHub Trophies
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=oneterabyte7&theme=onedark" alt="oneterabyte7 trophies" />
+</a>
+
+---
+
+### 🧠 Languages, Frameworks, Tools & DevOps
+
+#### 👨‍💻 Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=oneterabyte7&theme=onedark" alt="oneterabyte7 trophies" />
-  </a>
+#### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
+#### 🛠️ Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+</p>
+
+#### 🚀 DevOps & Cloud
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🔗 Connect with Me
 
-<p align="center">
-I'm a passionate **MERN Stack Developer** and **AI Engineer** from Pune, India.<br/>
-My journey bridges scalable full stack development with intelligent systems and ML workflows.<br/>
-I've worked on everything from web platforms to reinforcement learning agents and LLM-powered tools.<br/><br/>
-🏆 **3rd Place - IEEE CodeClash International Hackathon 2025**<br/>
-👨‍💼 Ex-Full Stack Developer @ HackNcrafts<br/>
-🧠 Former AI Intern @ DLTitans<br/>
-📫 Reach me at: justforcoding13@gmail.com<br/>
-💬 Ask me about MERN, LLMs, Model Fine-tuning, and MLOps<br/>
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sohamjs1313" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
-  </tr>
-</table>
+<a href="https://linkedin.com/in/sohamjs1313" target="blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en&theme=onedark" alt="Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark" alt="Languages" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oneterabyte7&theme=onedark" alt="Streaks" />
 </p>
