@@ -2,7 +2,8 @@
 
 <h3>🚀 An enthusiastic and ambitious Full Stack Developer, AI Engineer, and Data Analyst from Pune, India</h3>
 ---
-<img src="matrix.gif" width="500" />
+
+<img src="matrix_wide_message.gif" width="1000" />
 
 ---
 
