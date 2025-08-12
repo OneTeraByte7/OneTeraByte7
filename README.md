@@ -90,10 +90,5 @@ I'm a highly driven developer with hands-on experience building scalable full st
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oneterabyte7&show_icons=true&locale=en&layout=compact" alt="oneterabyte7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en" alt="oneterabyte7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oneterabyte7&" alt="oneterabyte7" /></p>
 
 
