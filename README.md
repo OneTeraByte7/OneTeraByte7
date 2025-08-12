@@ -90,5 +90,6 @@ I'm a highly driven developer with hands-on experience building scalable full st
   </tr>
 </table>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oneterabyte7&" alt="oneterabyte7" /></p>
 
 
