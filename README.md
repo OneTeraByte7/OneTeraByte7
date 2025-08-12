@@ -87,11 +87,32 @@ I'm a highly driven developer with hands-on experience building scalable full st
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark" alt="Languages" />
     </td>
+  </tr>
+</table>
+
+### 📈 GitHub Contribution Graph
+
+![Contribution Graph](https://github.com/oneterabyte7.png?tab=overview&from=2023-08-01&to=2024-08-01)
+
+---
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&theme=onedark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
+---
+
+### 🏆 GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=oneterabyte7&theme=dark)
 
 
