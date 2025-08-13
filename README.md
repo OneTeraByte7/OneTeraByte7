@@ -82,15 +82,19 @@ I'm a highly driven developer with hands-on experience building scalable full st
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en&theme=onedark" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en&theme=onedark"
+           alt="Stats" height="200" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark" alt="Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark"
+           alt="Languages" height="200" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=oneterabyte7&theme=onedark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=oneterabyte7&theme=onedark&hide_border=false"
+           alt="GitHub Streak" height="200" />
     </td>
   </tr>
 </table>
+
