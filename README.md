@@ -88,7 +88,9 @@ I'm a highly driven developer with hands-on experience building scalable full st
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark" alt="Languages" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=oneterabyte7&theme=onedark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
 </table>
-
-
-
