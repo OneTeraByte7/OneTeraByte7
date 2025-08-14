@@ -11,7 +11,7 @@
 ### 🏆 GitHub Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=oneterabyte7&theme=onedark" alt="oneterabyte7 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=oneterabyte7&theme=onedark"/>
 </a>
 
 ---
