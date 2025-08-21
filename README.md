@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Soham J Suryawanshi</h1>
 
-<h3>🚀 An enthusiastic and ambitious Full Stack Developer, AI Engineer, and Data Analyst from Pune,Maharashtra,India</h3>
+<h3>🚀 An enthusiastic and ambitious Full Stack Developer, AI Engineer, and Data Analyst from Pune,India</h3>
 
 ---
 
