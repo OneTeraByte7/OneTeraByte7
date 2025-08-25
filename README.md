@@ -93,8 +93,8 @@ I'm a highly driven developer with hands-on experience building scalable full st
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://ghchart.rshah.org/onedark/oneterabyte7"
-           alt="GitHub Contribution Graph" height="200" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oneterabyte7&theme=onedark" alt="Profile Summary" height="200" />
+/>
     </td>
   </tr>
 </table>
