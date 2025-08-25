@@ -93,9 +93,15 @@ I'm a highly driven developer with hands-on experience building scalable full st
   </tr>
   <tr>
     <td colspan="2" align="center">
+      <!-- Primary streak card -->
       <img src="https://streak-stats.demolab.com?user=oneterabyte7&theme=onedark&hide_border=false&date=2025-08-25"
-     alt="GitHub Streak" height="200" />
+           alt="GitHub Streak" height="200" />
+      <br/>
+      <!-- Fallback streak card (mirror) -->
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=oneterabyte7&theme=onedark"
+           alt="GitHub Streak (Mirror)" height="200" />
     </td>
   </tr>
 </table>
+
 
