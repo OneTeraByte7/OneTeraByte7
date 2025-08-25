@@ -93,8 +93,9 @@ I'm a highly driven developer with hands-on experience building scalable full st
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=oneterabyte7&theme=onedark&hide_border=false"
-           alt="GitHub Streak" height="200" />
+      <img src="https://streak-stats.demolab.com?user=oneterabyte7&theme=onedark&hide_border=false&date=2025-08-25"
+     alt="GitHub Streak" height="200" />
+
     </td>
   </tr>
 </table>
