@@ -93,8 +93,14 @@ I'm a highly driven developer with hands-on experience building scalable full st
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oneterabyte7&theme=onedark" alt="Profile Summary" height="200" />
-/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oneterabyte7&theme=onedark" 
+           alt="Profile Summary" height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=oneterabyte7&theme=onedark&hide_border=false"
+           alt="GitHub Streak" height="200" />
     </td>
   </tr>
 </table>
