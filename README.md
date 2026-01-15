@@ -80,30 +80,16 @@ I'm a highly driven developer with hands-on experience building scalable full st
 
 <h3>📊 GitHub Stats</h3>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en&theme=onedark"
-           alt="Stats" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark"
-           alt="Languages" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oneterabyte7&theme=onedark" 
-           alt="Profile Summary" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=oneterabyte7&theme=onedark&hide_border=false"
-           alt="GitHub Streak" height="200" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=oneterabyte7&theme=onedark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oneterabyte7&theme=onedark)
+
+</div>
 
 
