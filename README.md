@@ -86,7 +86,7 @@ I'm a highly driven developer with hands-on experience building scalable full st
            alt="Stats" height="200" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=oneterabyte7&layout=compact&theme=onedark"
            alt="Languages" height="200" />
     </td>
   </tr>
