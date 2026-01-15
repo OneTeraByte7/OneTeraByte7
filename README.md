@@ -78,31 +78,17 @@ I'm a highly driven developer with hands-on experience building scalable full st
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en&theme=onedark"
-           alt="Stats" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneterabyte7&layout=compact&theme=onedark"
-           alt="Languages" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oneterabyte7&theme=onedark" 
-           alt="Profile Summary" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=oneterabyte7&theme=onedark&hide_border=false"
-           alt="GitHub Streak" height="200" />
-    </td>
-  </tr>
-</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oneterabyte7&label=Profile%20views&color=0e75b6&style=flat" alt="oneterabyte7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oneterabyte7" alt="oneterabyte7" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en" alt="oneterabyte7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oneterabyte7&theme=dark" alt="oneterabyte7" /></p>
 
 
 
