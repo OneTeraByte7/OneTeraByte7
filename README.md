@@ -86,7 +86,7 @@ I'm a highly driven developer with hands-on experience building scalable full st
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en" alt="oneterabyte7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oneterabyte7&show_icons=true&locale=en" alt="OneTeraYyte7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oneterabyte7&theme=dark" alt="oneterabyte7" /></p>
 
